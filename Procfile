@@ -1,1 +1,1 @@
-web: cd doorglass && npm start
+web: cd doorglass && npm start 
